@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Shivu-16/texutiles/static/css/main.073c9b0a.css",
+    "main.js": "/Shivu-16/texutiles/static/js/main.2a14c147.js",
+    "static/js/787.4cecd15a.chunk.js": "/Shivu-16/texutiles/static/js/787.4cecd15a.chunk.js",
+    "index.html": "/Shivu-16/texutiles/index.html",
+    "main.073c9b0a.css.map": "/Shivu-16/texutiles/static/css/main.073c9b0a.css.map",
+    "main.2a14c147.js.map": "/Shivu-16/texutiles/static/js/main.2a14c147.js.map",
+    "787.4cecd15a.chunk.js.map": "/Shivu-16/texutiles/static/js/787.4cecd15a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2a14c147.js"
+  ]
+}
